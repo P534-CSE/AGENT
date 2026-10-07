@@ -6,6 +6,12 @@ __pycache__/
 *.pyo
 *.pyd
 
+# Local project environment folders
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
 # Environment files
 .env
 .env.*
